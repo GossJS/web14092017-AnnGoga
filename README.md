@@ -6,8 +6,8 @@ https://kodaktor.ru/g/web14092017
 
 ссылку на ответ помещайте в README.MD своего репозитория
 
-https://codepen.io/AnnGoga/pen/PJwxxJ 
+https://codepen.io/AnnGoga/pen/PJwxxJ - Решение систем уравнений методом Крамера
 
-https://www.webpackbin.com/bins/-KuZOFy93GZDuUV2makF 
+https://www.webpackbin.com/bins/-KuZOFy93GZDuUV2makF - усовершенствованный "Крамер"
 
-https://codepen.io/AnnGoga/pen/PJVaPN  - колбэк 19.10.17
+https://codepen.io/AnnGoga/pen/PJVaPN  - просто непростой колбэк 19.10.17
