@@ -9,3 +9,5 @@ https://kodaktor.ru/g/web14092017
 https://codepen.io/AnnGoga/pen/PJwxxJ 
 
 https://www.webpackbin.com/bins/-KuZOFy93GZDuUV2makF 
+
+https://codepen.io/AnnGoga/pen/PJVaPN  - колбэк 19.10.17
